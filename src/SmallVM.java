@@ -5,7 +5,7 @@
  * Spring 2023
  *
  * The purpose of this project is to make an interpreter for a small, simulated
- * assembly-level programming language. Code is loaded into simulated memory through
+ * low level programming language. Code is loaded into simulated memory through
  * reading in a text file.
  */
 
